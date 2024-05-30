@@ -1,7 +1,8 @@
 ## OPA EAE!! Me chamo Carlos Eduardo
 
-- 🔭 Trabalhando atualmente como Front-End e GameDev
+- 🔭 Trabalhando atualmente como Front-End 
 - 🌱 Atualmente estudando React
+- Engenharia de Software 
 
  <div>
   <a href="https://github.com/carlosouzavalle">
